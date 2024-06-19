@@ -55,6 +55,6 @@ transform: rotate(45deg) translate(0, -50%);
 right: 0.5rem;
 }
 .toTop-arrow:focus {outline: none;}
-.img{
-  height: 650px;
+.card-img-top{
+  height:650px;
 }
